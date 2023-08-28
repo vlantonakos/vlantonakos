@@ -1,4 +1,4 @@
-<a href="https://stackoverflow.com/users/22457958/vlanto"><img src="https://stackoverflow.com/users/flair/22457958.png?theme=dark" width="210" height="60" alt="profile for vlanto at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for vlanto at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+[![Stack Overflow Flair](https://stackoverflow.com/users/flair/22457958.png?theme=dark)](https://stackoverflow.com/users/22457958/vlanto)
 <!--
 **vlantonakos/vlantonakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
