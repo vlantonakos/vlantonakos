@@ -1,4 +1,4 @@
-### Hi there 👋
+[![user:22457958's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/22457958?theme=monokai&website=true&location=true)](https://github.com/johannchopin/stackoverflow-readme-profile)
 
 <!--
 **vlantonakos/vlantonakos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
